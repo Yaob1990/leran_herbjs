@@ -1,0 +1,5 @@
+<view class="page">
+  <view class="title">组件级别数据流</view>
+  <view class="num">{{ num }}</view>
+  <action onPlus="plus" onMinus="minus"></action>
+</view>

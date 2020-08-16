@@ -1,0 +1,11 @@
+<view class="page">
+  <button onTap="navigateTo" type="primary" data-page="/pages/index/index">
+    页面级别数据流
+  </button>
+  <button onTap="navigateTo" type="primary" data-page="/pages/index2/index">
+    页面store级别数据流
+  </button>
+  <button onTap="navigateTo" type="primary" data-page="/pages/index3/index">
+    组件级别数据流
+  </button>
+</view>

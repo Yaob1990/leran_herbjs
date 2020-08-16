@@ -1,0 +1,4 @@
+<view class="action">
+  <button type="primary" class="plus" onTap="plus">加</button>
+  <button type="primary" class="minus" onTap="minus">减</button>
+</view>

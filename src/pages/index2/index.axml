@@ -1,0 +1,10 @@
+<view class="page">
+  <view class="title">页面store级别数据流</view>
+  <view class="num">{{ num }}-{{ desc }}</view>
+
+  <view class="action">
+    <button type="primary" class="plus" onTap="plus">加</button>
+    <button type="primary" class="minus" onTap="minus">减</button>
+    <button type="primary" class="minus" onTap="multiply">乘10</button>
+  </view>
+</view>
